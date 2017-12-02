@@ -22,6 +22,8 @@ def grid2d(start, end, num=50):
 """Create an 2D array where each row is a 2D coordinate.
 np.meshgrid is pretty annoying!
 """
+
+#lala
 dom = np.linspace(start, end, num)
 X0, X1 = np.meshgrid(dom, dom)
 return np.column_stack([X0.flatten(), X1.flatten()])
