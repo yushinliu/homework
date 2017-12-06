@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articleList> 
+  <article id="10" inStock="true">
+    <type>Mouse</type>
+    <manufacturer>Logitech Inc.</manufacturer>
+    <price>
+      <value>19.95</value>
+      <currency>EUR</currency>
+    </price>
+    <user>Mueller</user>
+  </article>
+  <article id="9">
+    <type>Keyboard</type>
+    <manufacturer>Cherry Inc.</manufacturer>
+    <price>
+      <value>20.00</value>
+      <currency>USD</currency>
+    </price>
+    <user>Maier</user>
+  </article>
+  <article id="11">
+    <type>USB Stick</type>
+    <manufacturer>TrekStor</manufacturer>
+    <price>
+      <value>20.00</value>
+      <currency>EUR</currency>
+    </price>
+    <user>Fritz</user>
+  </article>
+  <article id="12" inStock="false">
+    <type>Monitor</type>
+    <manufacturer>Samsung</manufacturer>
+    <price>
+      <value>199.95</value>
+      <currency>EUR</currency>
+    </price>
+    <user>Schulze</user>
+  </article>
+  <article id="0815">
+    <type>Laptop</type>
+    <manufacturer>Lenovo</manufacturer>
+    <price>
+      <value>2999.45</value>
+      <currency>EUR</currency>
+    </price>
+    <user>Hermann</user>
+  </article>
+</articleList>
